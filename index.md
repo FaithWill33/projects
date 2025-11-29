@@ -1,5 +1,4 @@
 ---
 title: Welcome to Faiths Blog
 ---
-Hello
-test
+Hello, Welcome to my blog! Feel free to look around.
